@@ -114,6 +114,7 @@ YoucefBoursali
 - [Dhruba Bhattacharyya](https://github.com/Dev-Dhruba2)
 - [simonpotel](https://github.com/simonpotel)
 - binara nurlankyzy
+- [Sophie Sokol](https://github.com/ippotheboxer)
 - [X3R074](My first contribution: https://github.com/X3R074)
 - [Seif Eddine Gadi](https://github.com/Seif-Eddine-Gadi)
 - [Harsh Gharsandiya](https://github.com/harshgharsandiya)
@@ -1951,3 +1952,4 @@ YoucefBoursali
 - [Wahhlei](https://github.com/Wahhlei)
 - [Yaswanth](https://github.com/yaswanthd333)
 - [Cyberforge](https://github.com/cyberforge1)
+- [Yashika Khattri](https://github.com/yashika232)
